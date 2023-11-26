@@ -2,7 +2,7 @@
 
 This simple Pomodoro timer application is built using Python's `tkinter` library. It helps you manage your work and break intervals, following the Pomodoro Technique for improved productivity.
 
-![Pomodoro Timer Screenshot](screenshots/pomodoro_screenshot.png)
+![Pomodoro Timer Screenshot](https://github.com/itai-markovetzky/pomodoro-timer/blob/main/pomodoro_screenshot.png)
 ## Table of Contents
 
 1. [Features](#features)
